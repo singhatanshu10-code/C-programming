@@ -13,8 +13,9 @@ This repository contains my C programming practice programs as I begin learning 
 | 3 | evenodd.c | Even or an odd input |
 | 4 | large.c | Comparing 2 inputs|
 | 5 | largest.c | Comparing 3 values |
-
-
+| 6 | switch.c | Switch statment |
+| 7 | ternaryOPT.c | Ternary operator |
+| 8 | upto5dec.c | Indendation before the output and restricting the number of values after decimal point  |
 ## 🛠️ Tools Used
 - C Programming
 - Visual Studio Code
