@@ -16,6 +16,12 @@ This repository contains my C programming practice programs as I begin learning 
 | 6 | switch.c | Switch statment |
 | 7 | ternaryOPT.c | Ternary operator |
 | 8 | upto5dec.c | Indendation before the output and restricting the number of values after decimal point  |
+| 9 | loops1.c | Basic loop |
+| 10 | for1.c | printing First 100 number  |
+| 11 | primeNO.c | Whether a given number is prime or not |
+| 12 | oddno.c | Printing odd number upto 100  |
+| 13 | tableofN.c | printing multiplication table of a given number |
+
 ## 🛠️ Tools Used
 - C Programming
 - Visual Studio Code
