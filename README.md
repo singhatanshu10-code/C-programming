@@ -21,6 +21,12 @@ This repository contains my C programming practice programs as I begin learning 
 | 11 | primeNO.c | Whether a given number is prime or not |
 | 12 | oddno.c | Printing odd number upto 100  |
 | 13 | tableofN.c | printing multiplication table of a given number |
+| 14 | even1to100.c | Printing all the even numbers between 1 to 100 |
+| 15 | factorial.c | Finding factorial of givne number |
+| 16 | no.ofdigits.c | Finding number of digits of a given number |
+| 17 | rev.c | Reversing the given digit |
+| 18 | sumofdigits.c | Finding the sum of the digits of given number |
+
 
 ## 🛠️ Tools Used
 - C Programming
