@@ -26,6 +26,9 @@ This repository contains my C programming practice programs as I begin learning 
 | 16 | no.ofdigits.c | Finding number of digits of a given number |
 | 17 | rev.c | Reversing the given digit |
 | 18 | sumofdigits.c | Finding the sum of the digits of given number |
+| 19 | ASCII.c | Printing alphabet with there ascii values |
+| 20 | ap1357.c | Printing an AP 1,3,5,7...|
+| 21 | ap14710.c | Printing an AP 1,4,7,10...|
 
 
 ## 🛠️ Tools Used
